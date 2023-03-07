@@ -21,5 +21,17 @@
 // beer()
 
 //14.2
-const array = ['🍕','🍕','🍍','🍕','🍕'];
+// const array = ['🍕','🍕','🍍','🍕','🍕'];
+// let stock = 0;
+// function pizza() {
+//     array.filter(item => {
+//         if(item != '🍕'){
+//             stock++;
+//             console.log(item)
+//         };
+//     });
+//     if (stock != 0 ){console.log("Tenemos " + stock + " 🍕 en stock")};
+// }
 
+
+pizza();
